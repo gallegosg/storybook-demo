@@ -1,0 +1,24 @@
+.button {
+    padding: 1rem 1.5rem;
+    border-radius: 5px;
+    margin: 1rem;
+    max-width: 10rem;
+}
+
+.primary {
+    background-color: deepskyblue;
+    color: white
+}
+
+.secondary {
+    background-color: #ddd;
+    color: black;
+}
+
+.outline {
+    background-color: white;
+    color: black;
+    border-width: 1px;
+    border-style: solid;
+    border-color:deepskyblue;
+}

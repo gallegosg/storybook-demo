@@ -1,0 +1,25 @@
+.input {
+    width: 100%;
+    border-radius: 4px;
+    padding-left: 1rem;
+    border: none;
+    border-width: 1px;
+    border-style: solid;
+    margin: 1rem;
+}
+
+.small {
+    height: 1rem;
+    font-size: 0.8rem;
+    border-radius: 2px;
+}
+
+.medium {
+    height: 3rem;
+    font-size: 1.5rem;
+}
+
+.large {
+    height: 4rem;
+    font-size: 2rem;
+}
